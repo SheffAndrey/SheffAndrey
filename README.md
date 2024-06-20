@@ -1,4 +1,6 @@
-### Hi there 👋
+
+<p align = "center"><img src = "https://i.giphy.com/media/v1.Y2lkPTc5MGI3NjExdzRvbzU3eTdxZmwxcGhuN3ZpcDU2eWt6OWlhYmk0bzkxYTBoNDU3aCZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/5k5vZwRFZR5aZeniqb/giphy.gif" 
+width = "100"/></p>
 
 <!--
 **SheffAndrey/SheffAndrey** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
