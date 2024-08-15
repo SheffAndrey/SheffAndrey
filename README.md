@@ -1,6 +1,6 @@
 
 <p align = "center"><img src = "https://i.giphy.com/media/v1.Y2lkPTc5MGI3NjExdzRvbzU3eTdxZmwxcGhuN3ZpcDU2eWt6OWlhYmk0bzkxYTBoNDU3aCZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/5k5vZwRFZR5aZeniqb/giphy.gif" 
-width = "100"/></p>
+width = "100"/>
 
 <div id = "badges">
     <a href = "URL">
@@ -9,6 +9,10 @@ width = "100"/></p>
     <img src="https://komarev.com/ghpvc/?SheffAndrey&style=flat-square&color=blue" alt=""/>
 
 </div>
+
+</p>
+
+
 
 
 
