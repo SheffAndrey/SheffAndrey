@@ -20,7 +20,8 @@ width = "100"/></p>
   <img src="https://media.giphy.com/media/V0OggVqQxNIOI/giphy.gif" width="480" height="480"/>
 </div>
 
---- :man_technologist: About Me :
+--- 
+:man_technologist: About Me :<br>
 I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30"> from Russia.
 
 
