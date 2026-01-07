@@ -1,4 +1,4 @@
-:fire: Мое резюме :
+ Мое резюме :
 [![Резюме на hh.ru](https://hh.ru/resume/ca0d6e0eff09c90d270039ed1f45654138464e?from=share_ios)
 
 
