@@ -1,4 +1,7 @@
-[Мое резюме] (https://hh.ru/resume/ca0d6e0eff09c90d270039ed1f45654138464e?from=share_ios)
+:fire: Мое резюме :
+[![Резюме на hh.ru](https://hh.ru/resume/ca0d6e0eff09c90d270039ed1f45654138464e?from=share_ios)
+
+
 <p align = "center"><img src = "https://i.giphy.com/media/v1.Y2lkPTc5MGI3NjExdzRvbzU3eTdxZmwxcGhuN3ZpcDU2eWt6OWlhYmk0bzkxYTBoNDU3aCZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/5k5vZwRFZR5aZeniqb/giphy.gif" 
 width = "100"/></p>
 
