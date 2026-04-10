@@ -5,6 +5,13 @@
 <p align = "center"><img src = "https://i.giphy.com/media/v1.Y2lkPTc5MGI3NjExdzRvbzU3eTdxZmwxcGhuN3ZpcDU2eWt6OWlhYmk0bzkxYTBoNDU3aCZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/5k5vZwRFZR5aZeniqb/giphy.gif" 
 width = "100"/></p>
 
+# Профессиональное резюме
+# Full-stack разработчика
+## Персональная информация
+**Имя Фамилия:** Айдаров Андрей
+**Возраст:* 37
+
+
 
 <div id = "badges" align = "center">
     <a href = "URL">
